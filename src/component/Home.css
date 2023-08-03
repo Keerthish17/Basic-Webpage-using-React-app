@@ -1,0 +1,53 @@
+#keer{
+
+    font-size: 30px;
+    margin-left: 400px;
+   position: absolute;
+    margin-top: 60px;
+  }
+  #body{
+    background-color: aqua;
+}
+  #moose{
+  
+    margin: auto;
+    width: 280px;
+    height: 280px;
+    margin-left:400px ;
+    margin-top: 230px;
+  }
+  #header1{
+    color: white;
+    background-color: rgb(13, 14, 13);
+    width: 500px;
+    height: 30px;
+    position: absolute;
+    margin-top: 140px;
+    text-align: center;
+    margin-left: 400px;
+  }
+  #header2{
+    color: white;
+    background-color: rgb(13, 14, 13);
+    width: 550px;
+    position: absolute;
+    margin-top: 140px;
+    text-align: center;
+    margin-left: 800px;
+    height: 30px;
+  
+  }
+  #about{
+    height: fit-content;
+    width: 500px;
+    margin-left: 800px;
+    margin-top: -270px;
+  }
+  #info{
+    font-size: 20px;
+   
+  }
+  #list1{
+    font-size: 20px;
+    margin-left:400px ;
+  }
